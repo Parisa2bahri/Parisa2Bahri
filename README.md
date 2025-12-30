@@ -22,11 +22,11 @@ Learning and improving my skills every day is my priority! ✨
   </span>
   <br/>
   <span style="display:inline-block; width:140px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="15" height="15"/>
     Tailwind CSS
   </span>
   <span style="display:inline-block; width:140px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=vite" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=vite" width="15" height="15"/>
     Vite
   </span>
   <span style="display:inline-block; width:140px; text-align:center;">
