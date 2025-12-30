@@ -1,34 +1,22 @@
 ## 👋 Hi there, I’m Parisa Dobaheri 🌱
 
-I’m a **Front-End Developer** who loves building clean, responsive, and modern user interfaces.  
-I enjoy learning new technologies, solving problems, and improving my skills every day.
-
-My mindset is simple:  
-✨ **Always stay up to date and keep growing.**
-
-JavaScript is my favorite language on the web,  
-and I’m also seriously learning **SQL** to strengthen my technical foundation.
+I’m a **Front-End Developer** focusing on **HTML, CSS, and JavaScript**.  
+I love building clean, responsive, and interactive web pages.  
+Learning and improving my skills every day is my priority! ✨
 
 ---
 
-### 🚀 Front-End Technologies
+### 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite" />
-</p>
-
----
-
-### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced React concepts  
-- Clean & scalable front-end architecture  
-- Better UI/UX practices  
+- Advanced CSS techniques  
+- JavaScript DOM & ES6+ features  
+- Responsive design & animations  
 
 ---
 
@@ -52,5 +40,7 @@ and I’m also seriously learning **SQL** to strengthen my technical foundation.
   <a href="https://instagram.com/parisa___dz" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- 
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
