@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Parisa Dobaheri 🌱
 
-I’m a **Front-End Developer** focusing on **HTML, CSS, and JavaScript**.  
+I’m a **Front-End Developer** focusing on **HTML, CSS, JavaScript, Tailwind CSS, and Vite**.  
 I love building clean, responsive, and interactive web pages.  
 Learning and improving my skills every day is my priority! ✨
 
@@ -8,7 +8,7 @@ Learning and improving my skills every day is my priority! ✨
 
 ### 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" width="60" height="60" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git" width="30" height="30" style="margin:5px"/>
 </p>
 
 ---
@@ -40,9 +40,9 @@ Learning and improving my skills every day is my priority! ✨
 ### 📫 Stay in Touch
 <p align="left">
   <a href="https://instagram.com/parisa___dz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="25" height="25" style="margin:5px"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="margin:5px"/>
   </a>
-  <a href="https://t.me/parisa_dbz" target="_blank">
+  <a href="https://t.me/yourtelegramusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=telegram" width="30" height="30" style="margin:5px"/>
   </a>
 </p>
