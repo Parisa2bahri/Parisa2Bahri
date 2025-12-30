@@ -8,7 +8,12 @@ Learning and improving my skills every day is my priority! ✨
 
 ### 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git" width="70" height="70" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=html" width="30" height="30" style="margin:5px"/> HTML5
+  <img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="margin:5px"/> CSS
+  <img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="margin:5px"/> JavaScript
+  <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" style="margin:5px"/> Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=vite" width="30" height="30" style="margin:5px"/> Vite
+  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" style="margin:5px"/> Git
 </p>
 
 ---
@@ -40,9 +45,9 @@ Learning and improving my skills every day is my priority! ✨
 ### 📫 Stay in Touch
 <p align="left">
   <a href="https://instagram.com/parisa___dz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="margin:5px"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" style="margin:5px"/> Instagram
   </a>
   <a href="https://t.me/yourtelegramusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="30" height="30" style="margin:5px"/>
+    <img src="https://skillicons.dev/icons?i=telegram" width="30" height="30" style="margin:5px"/> Telegram
   </a>
 </p>
