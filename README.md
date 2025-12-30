@@ -30,7 +30,8 @@ Learning and improving my skills every day is my priority! ✨
   <a href="https://instagram.com/parisa___dz" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="25" height="25" style="margin:5px"/> Instagram
   </a><br/>
-  <a href="https://t.me/pari3a_dbz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="25" height="25" style="margin:5px"/> Telegram
-  </a>
+ <a href="https://t.me/pari3a_dbz" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="25" height="25" style="margin:5px"/> Telegram
+</a>
+
 </p>
