@@ -40,7 +40,4 @@ Learning and improving my skills every day is my priority! ✨
   <a href="https://instagram.com/parisa___dz" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </p>
