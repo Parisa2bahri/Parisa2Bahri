@@ -1,4 +1,4 @@
-<p align="center"> 👋 Hi there, I’m Parisa Dobaheri 🌱 </p>
+<p align="center"> 👋 Hi there, I’m Parisa DobahriZadeh 🌱 </p>
 
 <p align="center"> I’m a **Front-End Developer** focusing on **HTML, CSS, JavaScript, Tailwind CSS, and Vite**.  
 I love building clean, responsive, and interactive web pages.  
