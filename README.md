@@ -8,12 +8,12 @@ Learning and improving my skills every day is my priority! ✨
 
 ### 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="30" height="30" style="margin:5px"/> HTML5
-  <img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="margin:5px"/> CSS
-  <img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="margin:5px"/> JavaScript
-  <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" style="margin:5px"/> Tailwind CSS
-  <img src="https://skillicons.dev/icons?i=vite" width="30" height="30" style="margin:5px"/> Vite
-  <img src="https://skillicons.dev/icons?i=git" width="30" height="30" style="margin:5px"/> Git
+  <img src="https://skillicons.dev/icons?i=html" width="25" height="25" style="margin:5px"/> HTML5
+  <img src="https://skillicons.dev/icons?i=css" width="25" height="25" style="margin:5px"/> CSS
+  <img src="https://skillicons.dev/icons?i=js" width="25" height="25" style="margin:5px"/> JavaScript
+  <img src="https://skillicons.dev/icons?i=tailwind" width="25" height="25" style="margin:5px"/> Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=vite" width="25" height="25" style="margin:5px"/> Vite
+  <img src="https://skillicons.dev/icons?i=git" width="25" height="25" style="margin:5px"/> Git
 </p>
 
 ---
