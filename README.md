@@ -8,7 +8,7 @@ Learning and improving my skills every day is my priority! ✨
 
 ### 🚀 Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git" width="60" height="60" style="margin:5px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git" width="70" height="70" style="margin:5px"/>
 </p>
 
 ---
