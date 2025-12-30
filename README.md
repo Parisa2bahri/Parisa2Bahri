@@ -8,15 +8,15 @@ Learning and improving my skills every day is my priority! ✨
 
 ### 🚀 Technologies
 <p align="center">
-  <span style="display:inline-block; width:110px; text-align:center;">
+  <span style="display:inline-block; width:140px; text-align:center;">
     <img src="https://skillicons.dev/icons?i=html" width="15" height="15"/><br/>
     HTML5
   </span>
-  <span style="display:inline-block; width:110px; text-align:center;">
+  <span style="display:inline-block; width:140px; text-align:center;">
     <img src="https://skillicons.dev/icons?i=css" width="15" height="15"/><br/>
     CSS
   </span>
-  <span style="display:inline-block; width:110px; text-align:center;">
+  <span style="display:inline-block; width:140px; text-align:center;">
     <img src="https://skillicons.dev/icons?i=js" width="15" height="15"/><br/>
     JavaScript
   </span>
@@ -34,6 +34,7 @@ Learning and improving my skills every day is my priority! ✨
     Git
   </span>
 </p>
+
 
 
 
