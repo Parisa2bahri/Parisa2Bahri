@@ -17,7 +17,7 @@ Learning and improving my skills every day is my priority! ✨
     CSS
   </span>
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=js" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=js" width="15" height="15"/>
     JavaScript
   </span>
   <br/>
