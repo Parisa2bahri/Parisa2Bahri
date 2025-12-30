@@ -9,11 +9,11 @@ Learning and improving my skills every day is my priority! ✨
 ### 🚀 Technologies
 <p align="center">
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=html" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=html" width="15" height="15"/>
     HTML5
   </span>
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=css" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=css" width="15" height="15"/>
     CSS
   </span>
   <span style="display:inline-block; width:110px; text-align:center;">
@@ -22,15 +22,15 @@ Learning and improving my skills every day is my priority! ✨
   </span>
   <br/>
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="15" height="15"/>
     Tailwind CSS
   </span>
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=vite" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=vite" width="15" height="15"/>
     Vite
   </span>
   <span style="display:inline-block; width:110px; text-align:center;">
-    <img src="https://skillicons.dev/icons?i=git" width="15" height="15"/><br/>
+    <img src="https://skillicons.dev/icons?i=git" width="15" height="15"/>
     Git
   </span>
 </p>
